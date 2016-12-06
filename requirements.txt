@@ -1,0 +1,7 @@
+slacker
+langid
+networkx
+mpld3
+nltk
+stop_words
+gensim
